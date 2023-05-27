@@ -217,11 +217,7 @@
 
 	<!-- Contact Start -->
 	<section id="contact" class="contact">
-      <h2><span>Kontak</span> Kami</h2>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni
-        neque officiis fuga beatae recusandae.
-      </p>
+      <h2 class="justify-content-center" ><span>Kontak</span> Kami</h2>
 
       <div class="row">
         <iframe
